@@ -1,9 +1,12 @@
+import Rotas from "./routes";
+import GlobalStyle from './styles/global';
+
 function App() {
-  return (
-   <>
-    <h4>OI</h4>
-    <h1>2</h1>
-   </>
+  return(
+    <>
+      <GlobalStyle />
+      <Rotas />
+    </>
   );
 }
 

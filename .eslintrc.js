@@ -23,6 +23,7 @@ module.exports = {
   ignorePatterns: [ "*.test.js", "*.test.tsx" ],
   rules: {
     "react/jsx-filename-extension": [ 1, { "extensions": [".js", ".jsx"] }],
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "import/prefer-default-export": "off",
   },
 };
