@@ -7,6 +7,7 @@
   <li>Styled Components</li>
   <li>React Router Dom</li>
   <li>React Icons</li>
+  <li>Axios</li>
 </ul>
 
 ## Configs para padrões do projeto.
