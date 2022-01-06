@@ -1,6 +1,9 @@
 <h1 align="center">Lista de Repositorios Com React.js</h1>
 <p>Projeto React, usando o conceito de estado com Class</p>
 
+<img src="https://raw.githubusercontent.com/eduardonk9999/buscaderepositorios/master/imgtela.png" />
+
+
 ## 🛠 Tecnologias
 <ul>
   <li>React JS</li>
